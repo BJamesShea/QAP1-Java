@@ -17,3 +17,5 @@ Besides asking for an extra day, no. (sorry its a bit late!)
 5. Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one
 
 6/10. Wasn't too hard. Java feels awkward and clunky, but that's to be expected.
+
+I especially appreciated the way that the new format is done in regards to an assignment outline. Adding things like " deliverables " makes the process much smoother.
