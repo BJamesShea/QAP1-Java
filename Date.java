@@ -6,7 +6,8 @@ public class Date {
     // Note to Ainee: I didn't understand what you meant in problem two where you say " dd/mm/yyyy with leading zero"
 
     // I understrand that you want the date to be formatted as dd/mm/yyyy, but I don't understand what you mean by "with leading zero" Hope this is OK.
-
+    
+    // UPDATE: I figured it out. But i'm keeping this comment here for honesty.
 
     public Date(int day, int month, int year) {
         this.day = day;
